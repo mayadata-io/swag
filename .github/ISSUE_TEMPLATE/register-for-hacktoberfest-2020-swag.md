@@ -1,7 +1,7 @@
 ---
 name: Register for Hacktoberfest 2020 swag
 about: 'Tracker for checking the status of Hacktoberfest 2020 swag. '
-title: "[HF2020 Contributor] <github handle>"
+title: "[HF2020 Contributor] <github handle> / <country of residence>"
 labels: hf2020-contributor
 assignees: NisantaSahoo
 
